@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/portfolio-gliciela/static/css/main.d4f884c3.css",
-    "main.js": "/portfolio-gliciela/static/js/main.73b3b792.js",
+    "main.js": "/portfolio-gliciela/static/js/main.fcb13855.js",
     "static/js/453.a0f59347.chunk.js": "/portfolio-gliciela/static/js/453.a0f59347.chunk.js",
     "static/media/gliciela_borges.jpg": "/portfolio-gliciela/static/media/gliciela_borges.888d620ded369b1765b6.jpg",
     "static/media/curriculo_gliciela_borges.pdf": "/portfolio-gliciela/static/media/curriculo_gliciela_borges.a47ac4c858b21316ff37.pdf",
     "index.html": "/portfolio-gliciela/index.html",
     "main.d4f884c3.css.map": "/portfolio-gliciela/static/css/main.d4f884c3.css.map",
-    "main.73b3b792.js.map": "/portfolio-gliciela/static/js/main.73b3b792.js.map",
+    "main.fcb13855.js.map": "/portfolio-gliciela/static/js/main.fcb13855.js.map",
     "453.a0f59347.chunk.js.map": "/portfolio-gliciela/static/js/453.a0f59347.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d4f884c3.css",
-    "static/js/main.73b3b792.js"
+    "static/js/main.fcb13855.js"
   ]
 }
